@@ -92,7 +92,7 @@ Download and install the 3.0 release of protoc, then unzip the file.
 
 ```bash
 # From tensorflow/models/research/
-wget -O protobuf.zip https://github.com/google/protobuf/releases/download/v3.0.0/protoc-3.0.0-linux-x86_64.zip
+wget -O protobuf.zip https://github.com/google/protobuf/releases/download/v3.6.1/protoc-3.6.1-linux-x86_64.zip
 unzip protobuf.zip
 ```
 
